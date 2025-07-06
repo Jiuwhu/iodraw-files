@@ -109,6 +109,9 @@
         <mxCell id="5NyGLt5-GSsQQaSgEDcl-7" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;&lt;i&gt;tech blog&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1195" y="4810" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="5NyGLt5-GSsQQaSgEDcl-8" value="&lt;b&gt;&lt;i&gt;Agent A Dialog&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="4660" width="100" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
