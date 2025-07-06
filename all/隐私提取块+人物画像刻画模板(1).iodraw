@@ -91,6 +91,15 @@
         <mxCell id="AYHAFoeZIL9HBaUtpC7M-15" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;&lt;i&gt;Shopping lists&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1715" y="3377" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="5NyGLt5-GSsQQaSgEDcl-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#A9C4EB;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="3380" width="422" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="5NyGLt5-GSsQQaSgEDcl-2" value="&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;OMG! Turns out bugs in code are just as contagious as a cold 😷&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Today, I was helping a colleague troubleshoot issues in the inventory module, and then suddenly, my own interface started throwing errors! I was on the verge of losing my mind during debugging until my bestie surprised me with a delivery of Jasmine Cold Brew Latte from M Stand. With a double dose of caffeine and debugger magic, I finally got the code running smoothly 🎉&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;P.S. Still recovering from the cold. Desperately seeking recommendations for reliable rental agencies in Pudong 🙏&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;#CoderLife #CoffeeForTheWin #PudongRentals&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFF4C3;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="3407" width="382" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5NyGLt5-GSsQQaSgEDcl-3" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;&lt;i&gt;moments copy&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="673" y="3387" width="100" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
